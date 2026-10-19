@@ -1,0 +1,17 @@
+{
+  "target": "127.0.0.1",
+  "ip": "127.0.0.1",
+  "scanned": 13,
+  "open": [
+    {
+      "port": 8765,
+      "proto": "tcp",
+      "state": "open",
+      "service": "http",
+      "banner": "HTTP/1.0 200 OK",
+      "risk": ""
+    }
+  ],
+  "started": "2026-10-17T08:49:56",
+  "duration_s": 0.5
+}
