@@ -1,0 +1,11 @@
+ground truth: [34769, 36325, 39175, 49017]
+scanner found: [34769, 36325, 38650, 39175, 45160, 48746, 49017]
+match: False
+34769 ftp '220 FTP server ready'
+36325 unknown ''
+38650 unknown 'HEAD / HTTP/1.0'
+39175 smtp '220 mail.test ESMTP Postfix'
+45160 unknown 'HEAD / HTTP/1.0'
+48746 unknown 'HEAD / HTTP/1.0'
+49017 ssh 'SSH-2.0-OpenSSH_9.6'
+full 1-65535 sweep: 2.0 s, open: 7 ports
