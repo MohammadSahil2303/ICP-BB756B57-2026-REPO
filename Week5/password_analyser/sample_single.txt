@@ -1,0 +1,12 @@
+Password: S**********  length=11
+Strength: [#####---------------] 28/100 - Weak
+Entropy : 22.5 bits effective (72.3 theoretical)
+Policy  : FAIL length >= 12, PASS lowercase, PASS uppercase, PASS digit, PASS symbol, PASS no whitespace edges
+Crack time (average):
+  - online (throttled, 100/hr): 3 years
+  - offline slow hash (bcrypt, 10^4/s): 5 minutes
+  - offline fast hash (GPU, 10^10/s): instantly
+Recommendations:
+  * Use at least 12 characters; length matters more than complexity.
+  * Avoid: password contains a year.
+  * Try a random passphrase of 4-5 words (run with --generate).

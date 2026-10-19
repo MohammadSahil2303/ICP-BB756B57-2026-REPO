@@ -1,0 +1,24 @@
+{
+  "length": 14,
+  "entropy_bits": 56.6,
+  "raw_charset_bits": 92.0,
+  "score": 70,
+  "rating": "Strong",
+  "policy": {
+    "length >= 12": true,
+    "lowercase": true,
+    "uppercase": true,
+    "digit": true,
+    "symbol": true,
+    "no whitespace edges": true
+  },
+  "patterns": [],
+  "crack_time": {
+    "online (throttled, 100/hr)": "6.1e+08 centuries",
+    "offline slow hash (bcrypt, 10^4/s)": "1,686 centuries",
+    "offline fast hash (GPU, 10^10/s)": "61 days"
+  },
+  "recommendations": [
+    "Good. Store it in a password manager and enable MFA."
+  ]
+}

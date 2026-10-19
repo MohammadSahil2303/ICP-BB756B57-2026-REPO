@@ -1,0 +1,10 @@
+MASKED              SCORE   RATING
+pa******            10      Very Weak
+12****              5       Very Weak
+P@******            10      Very Weak
+qw*******           10      Very Weak
+Su*********         28      Weak
+Tr*********         28      Weak
+aa**********        19      Very Weak
+Xk************      70      Strong
+co**************************71      Strong
